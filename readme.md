@@ -2,7 +2,7 @@
 
 <br>
 
-![1](https://user-images.githubusercontent.com/26208598/54495673-ecd70e80-48dd-11e9-81b4-7c8634ed8a6a.JPG)
+![dashboard](https://github.com/awesomedev82/ProjectManagement-Vue-Django/assets/149862258/af8fd417-3589-496b-95ad-01d363655dfb)
 
 #### TL:DR:
 
@@ -44,7 +44,7 @@ This Project is a simulation of work environment, where more traditional agile t
 
 #### Register/Login View:
 
-![0](https://user-images.githubusercontent.com/26208598/54495747-9b7b4f00-48de-11e9-868c-0fd634a98c9c.JPG)
+![auth](https://github.com/awesomedev82/ProjectManagement-Vue-Django/assets/149862258/f9e542e0-f7d2-4a6c-96e1-962984c18993)
 
 1. Login Form
 2. Registry Form 
@@ -54,7 +54,7 @@ This Project is a simulation of work environment, where more traditional agile t
 
 #### Kanban Dashboard:
 
-![1](https://user-images.githubusercontent.com/26208598/73137207-97b36f80-404d-11ea-801c-8430a4d9fa70.PNG)
+![dashboard](https://github.com/awesomedev82/ProjectManagement-Vue-Django/assets/149862258/a0c8efce-bda5-49d0-af3f-247fdde04eea)
 
 1. Dropdown menu
 2. Project search bar 
@@ -68,7 +68,7 @@ This Project is a simulation of work environment, where more traditional agile t
 
 #### Project Details View:
 
-![2](https://user-images.githubusercontent.com/26208598/73137208-984c0600-404d-11ea-85af-3fcbb8a481e7.PNG)
+![details](https://github.com/awesomedev82/ProjectManagement-Vue-Django/assets/149862258/93d0f5d7-a55e-4b49-b6a2-48366a2668d4)
 
 1. Team Requirements Card  - allows Coder to apply for a team
 2. & 3. - Join/Leave Team buttons
@@ -77,7 +77,7 @@ This Project is a simulation of work environment, where more traditional agile t
 
 #### User Profile - New User Perspective:
 
-![3](https://user-images.githubusercontent.com/26208598/73137209-997d3300-404d-11ea-8071-69be8b7d411a.PNG)
+![profile](https://github.com/awesomedev82/ProjectManagement-Vue-Django/assets/149862258/fbf8d6af-ab38-479e-bb09-fdf78f4c3f91)
 
 1. User Card - generic portrait along with generic profile details
 2. Edit Button - allows User to provide information
@@ -88,7 +88,8 @@ This Project is a simulation of work environment, where more traditional agile t
 
 #### Charities View:
 
-![4](https://user-images.githubusercontent.com/26208598/73137211-9aae6000-404d-11ea-8a26-1d792a5cd191.PNG)
+![Charities](https://github.com/awesomedev82/ProjectManagement-Vue-Django/assets/149862258/dc34e196-ef15-4bb8-beba-199c77bb71a4)
+
 
 1. New Charity(VISIBLE TO ADMIN ONLY) - allows Program Manager to propose new charities every month
 2. Charity Card - provides information regarding charity cause 
@@ -96,18 +97,6 @@ This Project is a simulation of work environment, where more traditional agile t
 4. Remove Button(VISIBLE TO ADMIN ONLY) - allows Program Manager to remove old charities every month
 
 <br>
-
------------------
-
-### App Testing:
-
-##### Travis CI: [![Build Status](https://travis-ci.com/LukaszMalucha/Project-Dashboard-with-Django.svg?branch=master)](https://travis-ci.com/LukaszMalucha/Project-Dashboard-with-Django)
-##### `/api/tests/`
-##### `/core/tests/` 
-##### `/user/tests/`
-
------------------
-
 ## TOOLS, MODULES & TECHNIQUES
 
 ##### Backend Development:
